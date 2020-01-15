@@ -1,0 +1,1 @@
+# Assignment-of-SMA-in-Python

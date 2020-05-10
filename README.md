@@ -51,5 +51,4 @@ SMG.plot()
 plt.show()
 
 #save the File into CSV
-
 SMG.to_csv("FileName.csv")
